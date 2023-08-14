@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms Studying with Typescript",
+  "scripts": {
+    "start": "tsc --watch --preserveWatchOutput"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allanweber/algorithms.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "Typescript"
+  ],
+  "author": "Allan Weber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanweber/algorithms/issues"
+  },
+  "homepage": "https://github.com/allanweber/algorithms#readme"
+}
